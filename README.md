@@ -1,1 +1,1 @@
-# visual
+# Curriculum
